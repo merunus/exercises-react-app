@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/exercises-react-app/static/css/main.6959cdc9.css",
+    "main.js": "/exercises-react-app/static/js/main.84ce9fe4.js",
+    "static/media/upper legs.png": "/exercises-react-app/static/media/upper legs.766c7fc16b07928ff891.png",
+    "static/media/sport-image1.svg": "/exercises-react-app/static/media/sport-image1.d8a33ad12da4b1ad024bcb0a492e3c2a.svg",
+    "static/media/back.png": "/exercises-react-app/static/media/back.d053283460aa681e92e8.png",
+    "static/media/sport-image4.svg": "/exercises-react-app/static/media/sport-image4.015b1fe40dda3cd922316a4bbedc667e.svg",
+    "static/media/chest.png": "/exercises-react-app/static/media/chest.107dcf1f219c6ebb87d5.png",
+    "static/media/waist.png": "/exercises-react-app/static/media/waist.eb6487a28b7a470cc6ac.png",
+    "static/media/lower legs.png": "/exercises-react-app/static/media/lower legs.d3e30a71a7fb034b7ce0.png",
+    "static/media/upper arms.png": "/exercises-react-app/static/media/upper arms.ccba94b5a6efd47e0949.png",
+    "static/media/shoulders.png": "/exercises-react-app/static/media/shoulders.2e48f18f810c664d545f.png",
+    "static/media/gym.png": "/exercises-react-app/static/media/gym.6e701417c428e2fbc267.png",
+    "static/media/emptyImage.svg": "/exercises-react-app/static/media/emptyImage.703e679f2c9f9c39b507f97f1e45b725.svg",
+    "index.html": "/exercises-react-app/index.html",
+    "main.6959cdc9.css.map": "/exercises-react-app/static/css/main.6959cdc9.css.map",
+    "main.84ce9fe4.js.map": "/exercises-react-app/static/js/main.84ce9fe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6959cdc9.css",
+    "static/js/main.84ce9fe4.js"
+  ]
+}
